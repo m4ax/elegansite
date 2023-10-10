@@ -1,11 +1,11 @@
 @use '../abstracts/' as *;
 
-
 .banner {
     position: relative;
 
     background: url('../../../assets/images/background/bg-banner.png') no-repeat;
     background-size: cover;
+    
 
     .block-text {
         .heading {
@@ -152,7 +152,7 @@
             h5 {
                 color: #000000;
             }
-        }
+        }     
 
         .owner {
             display: flex;
